@@ -1,7 +1,7 @@
 # Easy Power Refresh
 **Power Options + NoNpDrm Games Installer all together in one app!.**
 
-![header](EasyPoweRefresh.jpg)
+![header](EasyPoweRefresh.png)
 
 ### Description ###
 This simple app was made for the users who wanted to have all the options mentioned above in the same vpk.
